@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.head1 {
+  font-size: 80px;
+  color: rgb(22, 14, 14);
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+  margin: 300px;
+}
+
+.background {
+  background: linear-gradient(360deg,aqua,rgb(36, 179, 133));
+}
